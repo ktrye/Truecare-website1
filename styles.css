@@ -59,13 +59,13 @@ a { color: inherit; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 18px 5vw;
-  min-height: 108px;
+  padding: 14px 5vw;
+  min-height: 95px;
 }
 
 .logo-link img {
   width: 260px;
-  max-width: 32vw;
+  max-width: 260vw;
   display: block;
 }
 
