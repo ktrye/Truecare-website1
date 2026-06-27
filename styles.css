@@ -64,8 +64,8 @@ a { color: inherit; }
 }
 
 .logo-link img {
-  width: 260px;
-  max-width: 260vw;
+  width: 300px;
+  max-width: 300vw;
   display: block;
 }
 
