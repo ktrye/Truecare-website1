@@ -73,11 +73,11 @@ a { color: inherit; }
 .main-nav {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 10px;
 }
 
 .main-nav a {
-  font-size: 1.2rem;
+  font-size: 1.05rem;
   font-weight: 400;
   text-decoration: none;
 }
@@ -98,7 +98,7 @@ a { color: inherit; }
   box-shadow: 0 14px 30px rgba(127, 150, 103, 0.28);
 }
 
-.nav-cta { padding: 17px 30px; }
+.nav-cta { padding: 15px 33px; }
 
 .button {
   padding: 16px 28px;
