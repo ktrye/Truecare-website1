@@ -59,12 +59,13 @@ a { color: inherit; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 24px 5vw;
+  padding: 18px 5vw;
+  min-height: 108px;
 }
 
 .logo-link img {
-  width: 410px;
-  max-width: 38vw;
+  width: 315px;
+  max-width: 32vw;
   display: block;
 }
 
@@ -362,8 +363,8 @@ button { width: 100%; }
   .menu-button { display: block; }
 
   .logo-link img {
-    width: 230px;
-    max-width: 65vw;
+    width: 220px;
+    max-width: 62vw;
   }
 
   .main-nav {
