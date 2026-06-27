@@ -29,7 +29,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: clamp(2.8rem, 5vw, 4.8rem);
+  font-size: clamp(2.0rem, 5vw, 4.8rem);
   line-height: 1.08;
   max-width: 650px;
 }
@@ -64,8 +64,8 @@ a { color: inherit; }
 }
 
 .logo-link img {
-  width: 300px;
-  max-width: 300vw;
+  width: 360px;
+  max-width: 360vw;
   display: block;
 }
 
