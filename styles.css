@@ -120,7 +120,7 @@ a { color: inherit; }
   display: grid;
   grid-template-columns: 0.82fr 1.18fr;
   gap: 5vw;
-  align-items: center;
+  align-items: start;
   padding: 82px 5vw 86px;
   min-height: 690px;
 }
@@ -170,6 +170,7 @@ a { color: inherit; }
   overflow: hidden;
   box-shadow: var(--shadow);
   height: 520px;
+  margin-top: -45px;
 }
 
 .hero-image img, .service-photo-grid img, .service-card img, .feature-image img {
