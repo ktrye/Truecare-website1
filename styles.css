@@ -128,9 +128,9 @@ a { color: inherit; }
 .hero-text { max-width: 680px; }
 
 .lead {
-  max-width: 640px;
-  margin-top: 24px;
-  margin-bottom: 18px;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .service-area {
