@@ -265,6 +265,8 @@ a { color: inherit; }
 }
 
 .page-hero h1 { margin: 0 auto 35px auto; }
+font-size: clamp(2.9rem, 5vw, 4.8rem);
+line-height: 1.08;
 
 .eyebrow {
   color: var(--sage-dark);
