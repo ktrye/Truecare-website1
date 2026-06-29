@@ -150,8 +150,10 @@ a { color: inherit; }
 
 .trust-row {
   display: flex;
+  justify-content: center;
+  align-items: center;
   gap: 16px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 
 .trust-card {
@@ -170,7 +172,7 @@ a { color: inherit; }
   overflow: hidden;
   box-shadow: var(--shadow);
   height: 520px;
-  margin-top: -45px;
+  margin-top: -10px;
 }
 
 .hero-image img, .service-photo-grid img, .service-card img, .feature-image img {
